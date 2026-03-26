@@ -22,10 +22,10 @@ print(merge_dicts(dict1, dict2))
 
 ```
 ## Output
+<img width="1060" height="230" alt="530463311-5ca301f7-d15d-4f7f-8822-bae011d04a90" src="https://github.com/user-attachments/assets/bfba3f92-f810-4c80-8be2-4dfb7b75228c" />
+<img width="636" height="198" alt="530463338-d49cbfc3-8daf-4abe-8826-1082a74c89f7" src="https://github.com/user-attachments/assets/a38f9f3b-9eda-4203-a48d-9e1dd3ca062d" />
 
-<img width="1060" height="230" alt="530463311-5ca301f7-d15d-4f7f-8822-bae011d04a90" src="https://github
-<img width="636" height="198" alt="530463338-d49cbfc3-8daf-4abe-8826-1082a74c89f7" src="https://github.com/user-attachments/assets/cb813496-dba8-4e95-9723-4593b01e5707" />
-.com/user-attachments/assets/0eeed040-cbf4-4002-a6df-78b87a198520" />
+
 
 ## Result
 Thus the program executed successfully.
